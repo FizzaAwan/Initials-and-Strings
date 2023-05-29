@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StringGames
+comment0.text=\r\n\ \ \ A\ program\ reads\ in\ a\ string,\r\n\ \ \ prints\ out\ the\ last\ character\ of\ the\ string,\r\n\ \ \ followed\ by\ the\ first\ character,\ and\ then\r\n\ \ \ followed\ by\ the\ three\ middle\ character\ of\ the\ string.\r\n\ \ \ All\ input\ strings\ should\ be\ of\ odd\ length.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
